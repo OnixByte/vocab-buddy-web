@@ -7,8 +7,6 @@
 <script lang="ts" setup></script>
 
 <style>
-@import "@/fonts.css";
-
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
